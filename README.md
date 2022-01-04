@@ -3,7 +3,7 @@ Demo shows third-person movement, how animation and state machines work in Godot
 
 --------------------------------------------------------------------------------------
 
-- Robot 3D model from Atomic Engine Examples which used from OpenGameArt.org
+- Robot 3D model from Atomic Game Engine Examples which used from OpenGameArt.org
 
 ### License
 Source code is released under GNU General Public License (see LICENSE).
