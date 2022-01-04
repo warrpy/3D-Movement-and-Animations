@@ -15,4 +15,3 @@ Robot model is released under CC-BY 3.0 License.
 - [Robot Model](https://opengameart.org/content/robo-welder)
 - [Documentation](http://docs.godotengine.org)
 - [Atomic Examples](https://github.com/AtomicGameEngine/AtomicExamples) 
-- 
