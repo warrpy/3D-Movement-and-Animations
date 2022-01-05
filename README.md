@@ -1,9 +1,9 @@
 # 3D-Movement-and-Animations
 Demo shows third-person movement, how animation and state machines work in Godot Engine.
 
---------------------------------------------------------------------------------------
+This is a Godot demo project in support of my youtube [video](https://www.youtube.com/watch?v=wVc4J8su4x8&t=127s) 
 
-- Robot 3D model from Atomic Game Engine Examples which used from OpenGameArt.org
+- Godot version 3.4.2 is required.
 
 ### License
 Source code is released under GNU General Public License (see LICENSE).
