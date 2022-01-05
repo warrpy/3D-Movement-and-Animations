@@ -10,6 +10,10 @@ Source code is released under GNU General Public License (see LICENSE).
 
 Robot model is released under CC-BY 3.0 License.
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+![](https://github.com/warrpy/3D-Movement-and-Animations/blob/main/3D%20Movement%20and%20Animations/screenshot/Screenshot%20from%202022-01-03%2014-45-02.png)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ### Links:
 
 - [Robot Model](https://opengameart.org/content/robo-welder)
